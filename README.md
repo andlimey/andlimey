@@ -34,6 +34,9 @@ I occasionally journal my thoughts at https://andy-chanwy-obsidian-blog.vercel.a
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-plain.svg" alt="nextjs" width="40" height="40" />
   </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" />
+  </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
   </a>
