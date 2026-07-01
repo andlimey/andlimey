@@ -4,7 +4,7 @@
 **andlimey/andlimey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a software engineer working at [Ascenda](https://www.ascenda.com/) (not to be confused with [Ascendas](https://www.capitaland-ascendasreit.com/en.html) the REIT).
+I'm a software engineer working at Thoughtworks.
 
 Some facts about myself:
 - Married with 1 kid (so far)
